@@ -1,5 +1,5 @@
 
-![Cover](https://github.com/yanka12/yanka12/blob/master/img/IMG_4952.JPG)
+(https://github.com/yanka12/yanka12/blob/master/img/IMG_4952.JPG)
 
 ### Hi there 👋
 
