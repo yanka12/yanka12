@@ -1,3 +1,6 @@
+
+![Cover](https://github.com/yanka12/yanka12/blob/master/img/IMG_4952.JPG)
+
 ### Hi there 👋
 
 <!--
@@ -14,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/yanka12/yanka12/blob/master/img/IMG_4952.JPG
